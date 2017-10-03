@@ -60,7 +60,7 @@ input:focus, textarea:focus {
 }
 
 .background {
-  background-image: url('../img/mainvisual_img_universe.jpg');
+  background-image: url("../img/mainvisual_img_universe.jpg");
   background-size: cover;
 }
 
