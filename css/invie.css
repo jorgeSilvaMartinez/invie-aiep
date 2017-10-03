@@ -20,6 +20,27 @@ body {
     font-family: 'Allerta', sans-serif;
     margin: 0;
 }
+@media screen and (max-width:600px) {
+ @media screen and (max-width: 767px){
+   /* Footer */
+   .footer .contenedor {
+     display: block;
+   }
+   .contacto {
+     margin: 0 auto;
+   }
+   .formulario {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+   }
+   .intereses label {
+    display: block;
+    font-size: 16px;
+  }
+  .col1 {
+   margin: 0;
+   }
 
 .button {
     border-radius: 5px;
